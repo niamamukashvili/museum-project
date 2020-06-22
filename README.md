@@ -1,10 +1,11 @@
 "# museum-project" 
-jgupi 712- Nia Mamukashvili,Tornike Matcharashvili
-mokle agcera: Pirosmanis ert-erti naxatis damushaveba im pormit,
-rom bavshvebistvis sheikmnas saganmanatleblo,megobruli,wamaxalisebeli
-tonis tamashi.isini xsnian mocemul-potosurats da kitxuloben mattvis
-daweril tavsatexis pormats.
-minishnebis wakitxvis shemdeg,potoze edzeben adgils sadac mati azrit
-cvlilebaa shetanili da click-it awkapuneben naxatze.
-am pormatit bavshvi motivirebulia,imis magivrad,rom moickinos.igi cdilobs
-amoxsnas da kvela damaluli obiekti swrafad ipovos.
+ჯგუფი 712
+ნია მამუკაშვილი
+თორნიკე მაჭარაშვილი
+
+მოკლე აღწერა: ფიროსმანის ერთ-ერთი ნახატის დამუშავება იმ ფორმით,
+ რომ ბავშვებისთვის შეიქმნას საგანმანათლებლო, წამახალისებელი, მეგობრული ტონის თამაში.
+  ბავშვები ხსნიან მოცემულ ფოტო-სურათს და კითხულობენ მათთვის დაწერილ თავსატეხის ფორმატის ქლუს
+  მინიშნების წაკითხვის შემდეგ, ფოტოზე ეძებენ ადგილს, სადაც მათი აზრით ცვლილებაა შეტანილი და click-ით უბრალოდ ნახატზე აწკაპუნებენ.
+  ამ ფორმატით ბავშვი მოტივირებულია, ნაცვლად იმისა მოიწყინოს ან მობეზრდეს ნახატის კვლევა, ცდილობს ამოხსნას და ყველა დამალული ობიექტი სწრაფად იპოვოს. 
+
